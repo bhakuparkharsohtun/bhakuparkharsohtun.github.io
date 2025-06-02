@@ -15,19 +15,14 @@ image:
 
 ### Weiqi Roadmap
 
-A Guide/Roadmap & List of Resources for the Game of Go/Baduk/Weiqi, mainly dargeted towards Beginners/DDKs - [Check Here](https://weiqi.soumyak4.in)
- - Changelog [Here](/project/Weiqi-Roadmap/)
+A Guide/Roadmap & List of Resources for the Game of Go/Baduk/Weiqi, mainly dargeted towards Beginners/DDKs -
 
 ### BadukTube
 
-A site that will someday list all Baduk Related lectures from YouTube for easier search - [Check Here](https://baduktube.soumyak4.in)
- - Changelog [Here](/project/BadukTube/)
+A site that will someday list all Baduk Related lectures from YouTube for easier search -
 
 ### TsumeGod
 
-A Telegram Tsumego Bot I made on a whim in 2 days - [Check Here](https://tsumegod.soumyak4.in)
- - Changelog [Here](/project/TsumeGod/)
- - Inspired by _dontdiehard/Skwidder_(Discord) : <a href="https://github.com/Skwidder/IGS-Puzzle-Bot" target="_blank">GitHub</a>
-
-<hr>
-<a href="/blog/Support/" class="btn grn fas fa-money-bill"> Support</a> 
+A Telegram Tsumego Bot I made on a whim in 2 days - 
+ - Changelog 
+ - Inspired by _dontdiehard/Skwidder_(Discord)
